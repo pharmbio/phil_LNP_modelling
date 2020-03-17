@@ -1,2 +1,2 @@
 # phil_LNP_modelling
-Jupiter notebook code to accompany manuscript "Deep dynamical modeling of drug delivery based on microscopy image data"
+Python scripts and jupyter notebooks to accompany the manuscript "Deep learning models for lipid-nanoparticle-based drug delivery"
