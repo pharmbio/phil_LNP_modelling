@@ -4,7 +4,7 @@ Python scripts and jupyter notebooks to accompany the manuscript:
 
 Authors: Philip J Harrison, Håkan Wieslander, Alan Sabirsh, Johan Karlsson, Victor Malmsjö, Andreas Hellander, Carolina Wählby and Ola Spjuth.
 
-*Note: The LNP data used in the scripts and notebooks is not included in this repository*.
+*Note: The LNP data used in the scripts and notebooks is not included in this repository*, but can be found at https://scilifelab.figshare.com/articles/LNP_drug_delivery_image_data/12482183/1
 
 **1. LNP_CNN_data_prep.ipynb**
 
